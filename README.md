@@ -3,6 +3,8 @@ conversion and addition and multiplication in different formats(unary,binary,dec
 
 TWO INPUTS ARE TAKEN IN ANY OF THESE FORMATS(UNARY,BINARY,DECIMAL,ROMAN)AND THE RESULT OF ADDITION AND MULTIPLICATION OF THESE NUMBERS COMES AS AN OUTPUT IN THAT FORMAT ONLY
 
+IN FIRST FUNCTION CONVERSION OF DECIMAL TO ROMAN IS DONE
+
 Question OF Assignment 2
 
 Since ancient times, the ability to represent numbers and perform arithmetic operations on numbers
